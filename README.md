@@ -12,5 +12,5 @@ All members are advised to prepare materials for mid-term test starting October.
 - For more information on how to publish materials, check GUIDES.md
 
 # JNY Alliance
-This repository is part of **Juliet November Yankee (JNY) Alliances**  
+This repository is part of **JNY Alliances**  
 <img src="https://i.ibb.co/BrHFvL4/JNY-Alliance-copy.jpg" alt="" height="400" style="max-width:100%;">
