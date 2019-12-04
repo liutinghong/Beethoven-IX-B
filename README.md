@@ -5,7 +5,7 @@
 All members are advised to prepare materials for mid-term test starting October.
 
 # Notes
-- **Prepare for Ujian Nasional**.
+- **Prepare for National Test**.
 - Most naterials will be written in Indonesian.
 - The contents here will help only if you really wanted to study them.
 - Add `[?]` at the end of a statement if the statement might not be true or requires citation.
